@@ -1,6 +1,6 @@
 # Ejercicios_javaScript (intro...)
 
-## Ejercicio 6
+## Ejercicio 6.
 Unas fábricas han sido sometidas a un programa de control de contaminación para lo cual
 se efectúa una revisión de los puntos IMECA generados por la fábrica. El programa de control
 de contaminación consiste en medir los puntos IMECA que emite la fábrica en cinco días de
@@ -25,3 +25,10 @@ cinco se les dará un 10% de descuento sobre el total de la compra; si el númer
 computadoras es mayor o igual a cinco pero menos de diez se le otorga un 20% de
 descuento; y si son 10 o más se les da un 40% de descuento. El precio de cada computadora
 es de $11,000
+
+## ejercicio 9.
+En un almacén se ha establecido una promoción de las llantas marca “Ponchadas”, dicha
+promoción consiste en lo siguiente: Si se compran menos de cinco llantas el precio es de
+$300 cada una, de $250 si se compran de cinco a 10 y de $200 si se compran mas de 10.
+Obtener la cantidad de dinero que N personas tienen que pagar por cada una de las llantas
+que compra y la que tiene que pagar por el total de la compra.

@@ -38,3 +38,13 @@ Un proveedor de estéreos ofrece un descuento del 10% sobre el precio sin IVA, d
 aparato si este cuesta $2000 o más. Además, independientemente de esto, ofrece un 5% de
 descuento si la marca es “NOSY”. Determinar cuánto pagaran, con IVA incluido, los clientes
 por la compra de su aparato.
+
+## ejercicio 11.
+Una frutería ofrece las manzanas con descuento según la siguiente tabla:
+KILOS COMPRADOS
+
+|% DESCUENTO | 0% | 10% | 15% | 20% |
+|------------|----|-----|-----|-----|
+|KILOS | 0-2 | 2.01 - 5 |5.01 - 10 |10.01 +|
+
+Determinar cuánto pagaran N personas que compren manzanas es esa frutería.

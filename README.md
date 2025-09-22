@@ -1,5 +1,10 @@
 # Ejercicios_javaScript (intro...)
 
+# ejercicio 1.
+Calcular el total que 10 personas deben pagar en un almacén de llantas, si el precio de cada
+llanta es de $800 si se compran menos de 5 llantas y de $700 si se compran 5 o más.
+
+
 ## Ejercicio 6.
 Unas fábricas han sido sometidas a un programa de control de contaminación para lo cual
 se efectúa una revisión de los puntos IMECA generados por la fábrica. El programa de control

@@ -4,6 +4,12 @@
 Calcular el total que 10 personas deben pagar en un almacén de llantas, si el precio de cada
 llanta es de $800 si se compran menos de 5 llantas y de $700 si se compran 5 o más.
 
+## ejercicio 2.
+En un supermercado se hace una promoción, mediante la cual los clientes obtienen un
+descuento dependiendo de un número que se escoge al azar. Si el numero escogido es
+menor que 74 el descuento es del 15% sobre el total de la compra, si es mayor o igual a 74
+el descuento es del 20%. Obtener cuánto dinero se le descuenta. Hacer el ciclo mientras el
+número escogido sea diferente de 0.
 
 ## Ejercicio 6.
 Unas fábricas han sido sometidas a un programa de control de contaminación para lo cual

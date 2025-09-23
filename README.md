@@ -11,6 +11,15 @@ menor que 74 el descuento es del 15% sobre el total de la compra, si es mayor o 
 el descuento es del 20%. Obtener cuánto dinero se le descuenta. Hacer el ciclo mientras el
 número escogido sea diferente de 0.
 
+## ejercicio 3.
+Calcular el número de pulsaciones que deben tener N personas por cada 10 segundos de
+ejercicio aeróbico; la fórmula que se aplica cuando el sexo es femenino es:
+
+num.pulsaciones = (220 - edad)/10,
+
+Y si el sexo es masculino:
+num. pulsaciones = (210 - edad)/10
+
 ## Ejercicio 6.
 Unas fábricas han sido sometidas a un programa de control de contaminación para lo cual
 se efectúa una revisión de los puntos IMECA generados por la fábrica. El programa de control
